@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "絶望ビリー",
+  "base_artist": "マキシマム ザ ホルモン",
+  "createdAt": "2025-12-07T12:14:01.579679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絶望ビリー (TVサイズ)",
+      "artist": "Maximum the Hormone",
+      "has_synced": false,
+      "path": "select/01_絶望ビリー_(TVサイズ)_Maximum_the_Hormone.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "絶望ビリー 〜TVサイズ〜",
+      "artist": "マキシマム ザ ホルモン",
+      "has_synced": false,
+      "path": "select/02_絶望ビリー_〜TVサイズ〜_マキシマム_ザ_ホルモン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "絶望ビリー",
+      "artist": "マキシマム ザ ホルモン",
+      "has_synced": true,
+      "path": "select/03_絶望ビリー_マキシマム_ザ_ホルモン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "絶望ビリー",
+      "artist": "マキシマムザホルモン",
+      "has_synced": true,
+      "path": "select/04_絶望ビリー_マキシマムザホルモン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "絶望ビリー",
+      "artist": "MAXIMUM THE HORMONE",
+      "has_synced": true,
+      "path": "select/05_絶望ビリー_MAXIMUM_THE_HORMONE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zetsubou Billy - 絶望ビリー",
+      "artist": "MAXIMUM THE HORMONE",
+      "has_synced": true,
+      "path": "select/06_Zetsubou_Billy_-_絶望ビリー_MAXIMUM_THE_HORMONE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "絶望ビリー 〜TVサイズ〜",
+      "artist": "Maximum the Hormone",
+      "has_synced": false,
+      "path": "select/07_絶望ビリー_〜TVサイズ〜_Maximum_the_Hormone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "絶望ビリー",
+      "artist": "マキシマムザホルモン (Maximum The Hormone)",
+      "has_synced": true,
+      "path": "select/08_絶望ビリー_マキシマムザホルモン_(Maximum_The_Hormone).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "絶望ビリー",
+      "artist": "マキシマム ザ ホルモン",
+      "has_synced": true,
+      "path": "select/09_絶望ビリー_マキシマム_ザ_ホルモン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "絶望ビリー",
+      "artist": "マキシマムザホルモン",
+      "has_synced": true,
+      "path": "select/10_絶望ビリー_マキシマムザホルモン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "絶望ビリー ～TVサイズ～",
+      "artist": "マキシマム ザ ホルモン",
+      "has_synced": false,
+      "path": "select/11_絶望ビリー_~TVサイズ~_マキシマム_ザ_ホルモン.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "絶望ビリー (TV Size)",
+      "artist": "マキシマムザホルモン",
+      "has_synced": true,
+      "path": "select/12_絶望ビリー_(TV_Size)_マキシマムザホルモン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶望ビリー",
+      "artist": "マキシマム ザ ホルモン",
+      "has_synced": false,
+      "path": "select/pl_01_絶望ビリー_マキシマム_ザ_ホルモン.txt"
+    }
+  ]
+}
